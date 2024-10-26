@@ -1,0 +1,10 @@
+*{
+    background-color:rgb(253, 251, 251);
+    text-align: center;
+    margin-top: 6em;
+    font-size: 100%;
+    border-radius: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+    color: black;
+}
